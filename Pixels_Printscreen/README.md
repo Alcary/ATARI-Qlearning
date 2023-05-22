@@ -1,0 +1,1 @@
+This is the Printscreen I have used to gather information regarding the pixel color of the whole screen. Inside the code I implemented a function which took a printscreen of a frame and converted every pixel to its greyscale code because the game is not build using RGB codes, but greyscale.
